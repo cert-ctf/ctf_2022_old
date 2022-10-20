@@ -92,6 +92,12 @@
          "id":218,
          "name":"exit_50",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_50"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -188,6 +194,12 @@
          "id":219,
          "name":"exit_49",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_49"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -284,6 +296,12 @@
          "id":220,
          "name":"exit_48",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_48"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -380,6 +398,12 @@
          "id":221,
          "name":"exit_47",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_47"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -476,6 +500,12 @@
          "id":222,
          "name":"exit_46",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_46"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -572,6 +602,12 @@
          "id":223,
          "name":"exit_45",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_45"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -668,6 +704,12 @@
          "id":224,
          "name":"exit_44",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_44"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -764,6 +806,12 @@
          "id":225,
          "name":"exit_43",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_43"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -860,6 +908,12 @@
          "id":226,
          "name":"exit_42",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_42"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -956,6 +1010,12 @@
          "id":227,
          "name":"exit_41",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_41"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -1052,6 +1112,12 @@
          "id":228,
          "name":"exit_40",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_40"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -1148,6 +1214,12 @@
          "id":229,
          "name":"exit_39",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_39"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -1244,6 +1316,12 @@
          "id":230,
          "name":"exit_38",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_38"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -1340,6 +1418,12 @@
          "id":231,
          "name":"exit_37",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_37"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -1436,6 +1520,12 @@
          "id":232,
          "name":"exit_36",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_36"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -1532,6 +1622,12 @@
          "id":233,
          "name":"exit_35",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_35"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -1628,6 +1724,12 @@
          "id":234,
          "name":"exit_34",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_34"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -1724,6 +1826,12 @@
          "id":235,
          "name":"exit_33",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_33"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -1820,6 +1928,12 @@
          "id":236,
          "name":"exit_32",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_32"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -1916,6 +2030,12 @@
          "id":237,
          "name":"exit_31",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_31"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -2012,6 +2132,12 @@
          "id":238,
          "name":"exit_30",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_30"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -2108,6 +2234,12 @@
          "id":239,
          "name":"exit_29",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_29"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -2204,6 +2336,12 @@
          "id":240,
          "name":"exit_28",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_28"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -2300,6 +2438,12 @@
          "id":241,
          "name":"exit_27",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_27"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -2396,6 +2540,12 @@
          "id":242,
          "name":"exit_26",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_26"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -2492,6 +2642,12 @@
          "id":243,
          "name":"exit_25",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_25"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -2588,6 +2744,12 @@
          "id":244,
          "name":"exit_24",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_24"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -2684,6 +2846,12 @@
          "id":245,
          "name":"exit_23",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_23"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -2780,6 +2948,12 @@
          "id":246,
          "name":"exit_22",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_22"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -2876,6 +3050,12 @@
          "id":247,
          "name":"exit_21",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_21"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -2972,6 +3152,12 @@
          "id":248,
          "name":"exit_20",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_20"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -3068,6 +3254,12 @@
          "id":249,
          "name":"exit_19",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_19"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -3164,6 +3356,12 @@
          "id":250,
          "name":"exit_18",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_18"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -3260,6 +3458,12 @@
          "id":251,
          "name":"exit_17",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_17"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -3356,6 +3560,12 @@
          "id":252,
          "name":"exit_16",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_16"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -3452,6 +3662,12 @@
          "id":253,
          "name":"exit_15",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_15"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -3548,6 +3764,12 @@
          "id":254,
          "name":"exit_14",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_14"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -3644,6 +3866,12 @@
          "id":255,
          "name":"exit_13",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_13"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -3740,6 +3968,12 @@
          "id":256,
          "name":"exit_12",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_12"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -3836,6 +4070,12 @@
          "id":257,
          "name":"exit_11",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_11"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -3932,6 +4172,12 @@
          "id":258,
          "name":"exit_10",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_10"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -4028,6 +4274,12 @@
          "id":259,
          "name":"exit_09",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_09"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -4124,6 +4376,12 @@
          "id":260,
          "name":"exit_08",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_08"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -4220,6 +4478,12 @@
          "id":261,
          "name":"exit_07",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_07"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -4316,6 +4580,12 @@
          "id":262,
          "name":"exit_06",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_06"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -4412,6 +4682,12 @@
          "id":263,
          "name":"exit_05",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_05"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -4508,6 +4784,12 @@
          "id":264,
          "name":"exit_04",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_04"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -4604,6 +4886,12 @@
          "id":265,
          "name":"exit_03",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_03"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -4700,6 +4988,12 @@
          "id":266,
          "name":"exit_02",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_02"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -4796,6 +5090,12 @@
          "id":267,
          "name":"exit_01",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_01"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
