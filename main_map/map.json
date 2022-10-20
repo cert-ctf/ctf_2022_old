@@ -10,7 +10,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exit_url",
+                 "name":"exiturl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_03"
                 }],
@@ -28,7 +28,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exit_url",
+                 "name":"exiturl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_02"
                 }],
@@ -46,7 +46,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exit_url",
+                 "name":"exiturl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_01"
                 }],
