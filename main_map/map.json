@@ -35145,7 +35145,7 @@
         {
          "columns":5,
          "firstgid":16385,
-         "image":"..\/..\/..\/Ti_erx\/workadventure\/ti_erx\/tilesets\/doors.png",
+         "image":"tilesets\/doors.png",
          "imageheight":160,
          "imagewidth":160,
          "margin":0,
@@ -35177,7 +35177,7 @@
         {
          "columns":8,
          "firstgid":16410,
-         "image":"..\/..\/..\/Ti_erx\/workadventure\/ti_erx\/tilesets\/floortileset.png",
+         "image":"tilesets\/floortileset.png",
          "imageheight":272,
          "imagewidth":272,
          "margin":1,
@@ -35200,7 +35200,7 @@
         {
          "columns":10,
          "firstgid":16474,
-         "image":"..\/..\/..\/Ti_erx\/workadventure\/ti_erx\/tilesets\/numbers.png",
+         "image":"tilesets\/numbers.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -35213,7 +35213,7 @@
         {
          "columns":8,
          "firstgid":16574,
-         "image":"..\/..\/..\/Ti_erx\/workadventure\/ti_erx\/tilesets\/fantasy.png",
+         "image":"tilesets\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
