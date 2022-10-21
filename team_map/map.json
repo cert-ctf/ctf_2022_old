@@ -8523,6 +8523,12 @@
  "nextlayerid":85,
  "nextobjectid":3,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"script",
+         "type":"string",
+         "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.9.2",
  "tileheight":32,
