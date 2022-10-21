@@ -9719,7 +9719,7 @@
         {
          "columns":8,
          "firstgid":25477,
-         "image":"..\/main-map\/tilesets\/floortileset.png",
+         "image":"tiles\/floortileset.png",
          "imageheight":272,
          "imagewidth":272,
          "margin":1,
